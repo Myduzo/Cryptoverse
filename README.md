@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<h1 align="center">Cryptoverse</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+<img src="./src/images/cryptocurrency.png" width="150" />
+</div>
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+[![Cryptoverse](https://img.shields.io/badge/Cryptoverse-name-orange.svg)](https://cryptojsx.netlify.app/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Pull Requests](https://img.shields.io/badge/live-link-informational.svg)](https://cryptojsx.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br />
 
-### `npm test`
+<p align="center"> A fully functional Cryptocurrency application using React.js, Redux Toolkit and Chart.js.
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## [Live link](https://cryptojsx.netlify.app/ "Live link")
 
-### `npm run build`
+## 📷 ScreenShots <a name = "ScreenShots"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Home Page](/src/images/1.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⛓️ Dependencies <a name = "dependencies"></a>
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- "@ant-design/icons": "^4.7.0",
+- "@reduxjs/toolkit": "^1.6.2",
+- "@testing-library/jest-dom": "^5.14.1",
+- "@testing-library/react": "^11.2.7",
+- "@testing-library/user-event": "^12.8.3",
+- "antd": "^4.16.13",
+- "axios": "^0.23.0",
+- "chart.js": "^3.5.1",
+- "html-react-parser": "^1.4.0",
+- "millify": "^4.0.0",
+- "moment": "^2.29.1",
+- "react": "^17.0.2",
+- "react-chartjs-2": "^3.1.1",
+- "react-dom": "^17.0.2",
+- "react-redux": "^7.2.5",
+- "react-router-dom": "^5.3.0",
+- "react-scripts": "4.0.3",
+- "web-vitals": "^1.1.2"
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+These instructions will get you a copy of the project up and running on your local machine for development
+and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Installing
 
-## Learn More
+```
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎈 Usage <a name="usage"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+npm start
+```
 
-### Code Splitting
+## ⛏️ Built With <a name = "tech_stack"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [React.js](https://reactjs.org/) - Front-end JavaScript library
+- [Redux Toolkit](https://redux-toolkit.js.org/) - State Management
+- [Ant Design](https://ant.design/) - UI Creation
+- [Chart.js](https://www.chartjs.org/) - Charts Creation
 
-### Analyzing the Bundle Size
+## ✍️ Authors <a name = "authors"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Youssef Sahli](https://github.com/Myduzo)
